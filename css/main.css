@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+button:hover {
+  background-color: white;
+  border-color: slategray;
+  color: black;
+}
+
+input {
+  width: 8em;  
+  height: 3em;;
+  text-align: center;
+  border-color: slategrey;
+  border-radius: 10%;
+}
+
+button {
+  color: aliceblue;
+  background-color: slategray;
+  width: 40px;
+  height: 40px;
+  border-radius: 20%;
+  border-color: slategrey;
+  font-size: larger;
+}
